@@ -2,6 +2,11 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
+##First blog post
 
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+
+##Nice to start this wonderful journey
+
+The road ahead and the road behind
+it is where it starts yay 6/18/2023
