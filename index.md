@@ -8,5 +8,5 @@ And you can include links, like this [link to fast.ai](https://www.fast.ai). Pos
 
 ##Nice to start this wonderful journey
 
-The road ahead and the road behind
+
 it is where it starts yay 6/18/2023
