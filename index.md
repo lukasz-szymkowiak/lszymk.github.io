@@ -6,7 +6,5 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
 
-##Nice to start this wonderful journey
-
-
-it is where it starts yay 6/18/2023
+# Nice to start this wonderful journey
+It is where it starts 6/18/2023
